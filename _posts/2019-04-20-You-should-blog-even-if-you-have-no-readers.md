@@ -5,7 +5,8 @@ date:   2019-04-20 00:00:00 +0800
 categories: document
 tag: 
 ---
----
+原文[nathanmarz.com](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html)，作者Nathan Marz
+
 Spencer Fry wrote a `great post` on "Why entrepreneurs should write." I would further add that the benefits of writing are so extraordinary that you should write a blog even if you have no readers (and regardless of whether you're an entrepreneur).
 
 I have over 50 unfinished drafts. Some of them are just a few ideas scribbled down arguing with myself. Most of them will never be published, yet I got value out of writing all of them.
