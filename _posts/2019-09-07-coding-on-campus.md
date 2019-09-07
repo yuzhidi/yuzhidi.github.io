@@ -9,7 +9,9 @@ tag:
 
  大学专业是网络工程。
 
- 计算机类基础课程肯定是有的，高数，概率统计，操作系统，计算机原理，c, c++, java等等
+ 计算机类基础课程肯定是有的，高数，概率统计，操作系统，计算机原理，c, c++, java等等. 
+ 
+
  编程课程以网页制作，网站开发为主。
 
  还能想到的字眼有flash, dreamweaver, asp, jsp, php, j2ee, .net, iis, access, jdbc, oracle, mysql，sql server
